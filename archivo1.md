@@ -10,4 +10,4 @@ Esta es una prueba de control de versiones
 
 Nivelacion de Sistemas de Control de Versiones
 
-Cambios en rama main
+Resolucion de Cambios en rama main y rama develop
